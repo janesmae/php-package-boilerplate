@@ -6,7 +6,7 @@
  *
  * @link https://github.com/janesmae/php-package-boilerplate
  *
- * @version 0.1.0-dev
+ * @version 0.1.0
  *
  * @author Jaan Janesmae <jaan@janesmae.com>
  * @copyright 2016 Jaan Janesmae

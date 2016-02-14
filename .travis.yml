@@ -10,10 +10,6 @@ php:
   - 7.0
   - hhvm
 
-env:
-  - DB=mysql
-  - DB=sqlite
-
 before_script:
   - composer self-update
   - composer install --prefer-source --no-interaction
