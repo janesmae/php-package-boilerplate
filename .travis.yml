@@ -10,6 +10,10 @@ php:
   - 7.0
   - hhvm
 
+install:
+  - composer self-update
+  - composer install
+
 before_script:
   - composer self-update
   - composer install --prefer-source --no-interaction
