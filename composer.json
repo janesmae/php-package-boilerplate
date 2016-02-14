@@ -10,7 +10,9 @@
   "authors": [
     {
       "name": "Jaan Janesmae",
-      "email": "jaan@janesmae.com"
+      "email": "jaan@janesmae.com",
+      "homepage": "http://jaan.janesmae.com/",
+      "role": "Developer"
     }
   ],
   "repositories": [
